@@ -46,4 +46,4 @@ The changing rates of left-handedness alone reproduce a meaningful chunk of the 
 
 ## License
 
-Add a license of your choice (e.g. MIT) if you intend this to be reused by others.
+This project is licensed under the MIT License — see the LICENSE file for details.
